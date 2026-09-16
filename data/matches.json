@@ -313,14 +313,15 @@
   },
   {
     "id": "84491",
+    "pzps_id": "914",
     "code": "MFB-15",
-    "start_utc": "2026-09-16T16:00:00Z",
     "title": "Polska – Bułgaria | ME 2026",
+    "competition": "CEV Mistrzostwa Europy 2026",
     "stage": "faza grupowa, grupa B",
     "location": "Arena 8888, Sofia, Bułgaria",
     "url": "https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=84491&ID=1572",
-    "competition": "CEV Mistrzostwa Europy 2026",
-    "sequence": 1,
-    "modified_utc": "2026-09-13T11:02:04Z"
+    "start_utc": "2026-09-16T16:00:00Z",
+    "sequence": 2,
+    "modified_utc": "2026-09-16T07:35:25Z"
   }
 ]

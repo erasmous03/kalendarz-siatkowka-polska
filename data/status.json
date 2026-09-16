@@ -1,14 +1,16 @@
 {
-  "last_success_utc": "2026-09-15T07:36:40Z",
+  "last_success_utc": "2026-09-16T07:35:25Z",
   "match_count": 25,
-  "last_run_utc": "2026-09-15T07:36:40Z",
+  "last_run_utc": "2026-09-16T07:35:25Z",
   "last_result": "ok",
   "last_added": [],
-  "last_updated": [],
+  "last_updated": [
+    "MFB-15"
+  ],
   "sources": {
     "PZPS": {
       "result": "ok",
-      "matches": 24,
+      "matches": 25,
       "awaiting_schedule": 0
     },
     "CEV ME 2026": {
