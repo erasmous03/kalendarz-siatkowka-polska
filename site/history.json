@@ -1,5 +1,27 @@
 [
   {
+    "checked_at_utc": "2026-09-17T07:35:52Z",
+    "result": "ok",
+    "added": [
+      "MEF-05"
+    ],
+    "updated": [],
+    "confirmed_in_source": 26,
+    "awaiting_schedule": 0,
+    "sources": {
+      "PZPS": {
+        "result": "ok",
+        "matches": 25,
+        "awaiting_schedule": 0
+      },
+      "CEV ME 2026": {
+        "result": "ok",
+        "matches": 6,
+        "awaiting_schedule": 0
+      }
+    }
+  },
+  {
     "checked_at_utc": "2026-09-16T07:35:25Z",
     "result": "ok",
     "added": [],

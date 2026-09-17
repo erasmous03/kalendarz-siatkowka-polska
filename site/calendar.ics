@@ -383,4 +383,19 @@ DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa
 URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=84491&ID=157
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:cev-eurovolley-2026-men-85075@polska-siatkowka
+SEQUENCE:0
+DTSTAMP:20260917T073552Z
+LAST-MODIFIED:20260917T073552Z
+DTSTART:20260919T130000Z
+DTEND:20260919T160000Z
+SUMMARY:Polska – Łotwa | ME 2026
+LOCATION:Arena 8888\, Sofia\, Bułgaria
+DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa 
+ Europy 2026\, 1/8 finału. Godzina w Polsce: 19.09.2026 15:00. Czas trwani
+ a wpisu: szacunkowe 3 godziny.
+URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85075&ID=157
+ 2
+END:VEVENT
 END:VCALENDAR

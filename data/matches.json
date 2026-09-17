@@ -323,5 +323,17 @@
     "start_utc": "2026-09-16T16:00:00Z",
     "sequence": 2,
     "modified_utc": "2026-09-16T07:35:25Z"
+  },
+  {
+    "id": "85075",
+    "code": "MEF-05",
+    "start_utc": "2026-09-19T13:00:00Z",
+    "title": "Polska – Łotwa | ME 2026",
+    "stage": "1/8 finału",
+    "location": "Arena 8888, Sofia, Bułgaria",
+    "url": "https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85075&ID=1572",
+    "competition": "CEV Mistrzostwa Europy 2026",
+    "sequence": 0,
+    "modified_utc": "2026-09-17T07:35:52Z"
   }
 ]
