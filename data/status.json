@@ -1,11 +1,9 @@
 {
-  "last_success_utc": "2026-09-17T07:35:52Z",
+  "last_success_utc": "2026-09-18T07:34:14Z",
   "match_count": 26,
-  "last_run_utc": "2026-09-17T07:35:52Z",
+  "last_run_utc": "2026-09-18T07:34:14Z",
   "last_result": "ok",
-  "last_added": [
-    "MEF-05"
-  ],
+  "last_added": [],
   "last_updated": [],
   "sources": {
     "PZPS": {
