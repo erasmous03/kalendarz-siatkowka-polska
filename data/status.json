@@ -1,7 +1,7 @@
 {
-  "last_success_utc": "2026-09-19T07:32:48Z",
+  "last_success_utc": "2026-09-20T07:33:11Z",
   "match_count": 26,
-  "last_run_utc": "2026-09-19T07:32:48Z",
+  "last_run_utc": "2026-09-20T07:33:11Z",
   "last_result": "ok",
   "last_added": [],
   "last_updated": [],
@@ -14,7 +14,7 @@
     "CEV ME 2026": {
       "result": "ok",
       "matches": 6,
-      "awaiting_schedule": 0
+      "awaiting_schedule": 1
     }
   }
 }
