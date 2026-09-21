@@ -398,4 +398,19 @@ DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa
 URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85075&ID=157
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:cev-eurovolley-2026-men-85083@polska-siatkowka
+SEQUENCE:0
+DTSTAMP:20260921T073616Z
+LAST-MODIFIED:20260921T073616Z
+DTSTART:20260922T160000Z
+DTEND:20260922T190000Z
+SUMMARY:Polska – Niemcy | ME 2026
+LOCATION:Arena 8888\, Sofia\, Bułgaria
+DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa 
+ Europy 2026\, ćwierćfinał. Godzina w Polsce: 22.09.2026 18:00. Czas trw
+ ania wpisu: szacunkowe 3 godziny.
+URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85083&ID=157
+ 2
+END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,27 @@
 [
   {
+    "checked_at_utc": "2026-09-21T07:36:16Z",
+    "result": "ok",
+    "added": [
+      "MQF-03"
+    ],
+    "updated": [],
+    "confirmed_in_source": 27,
+    "awaiting_schedule": 0,
+    "sources": {
+      "PZPS": {
+        "result": "ok",
+        "matches": 25,
+        "awaiting_schedule": 0
+      },
+      "CEV ME 2026": {
+        "result": "ok",
+        "matches": 7,
+        "awaiting_schedule": 0
+      }
+    }
+  },
+  {
     "checked_at_utc": "2026-09-20T07:33:11Z",
     "result": "ok",
     "added": [],
