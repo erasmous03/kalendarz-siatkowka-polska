@@ -1,9 +1,11 @@
 {
-  "last_success_utc": "2026-09-23T07:35:16Z",
-  "match_count": 27,
-  "last_run_utc": "2026-09-23T07:35:16Z",
+  "last_success_utc": "2026-09-24T07:35:02Z",
+  "match_count": 28,
+  "last_run_utc": "2026-09-24T07:35:02Z",
   "last_result": "ok",
-  "last_added": [],
+  "last_added": [
+    "MSF-02"
+  ],
   "last_updated": [],
   "sources": {
     "PZPS": {
@@ -13,8 +15,8 @@
     },
     "CEV ME 2026": {
       "result": "ok",
-      "matches": 7,
-      "awaiting_schedule": 1
+      "matches": 8,
+      "awaiting_schedule": 0
     }
   }
 }

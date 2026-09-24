@@ -413,4 +413,19 @@ DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa
 URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85083&ID=157
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:cev-eurovolley-2026-men-85088@polska-siatkowka
+SEQUENCE:0
+DTSTAMP:20260924T073502Z
+LAST-MODIFIED:20260924T073502Z
+DTSTART:20260925T150000Z
+DTEND:20260925T180000Z
+SUMMARY:Słowenia – Polska | ME 2026
+LOCATION:Unipol Forum\, Assago\, Włochy
+DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa 
+ Europy 2026\, półfinał. Godzina w Polsce: 25.09.2026 17:00. Czas trwani
+ a wpisu: szacunkowe 3 godziny.
+URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85088&ID=157
+ 2
+END:VEVENT
 END:VCALENDAR
