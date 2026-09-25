@@ -1,11 +1,9 @@
 {
-  "last_success_utc": "2026-09-24T07:35:02Z",
+  "last_success_utc": "2026-09-25T07:35:36Z",
   "match_count": 28,
-  "last_run_utc": "2026-09-24T07:35:02Z",
+  "last_run_utc": "2026-09-25T07:35:36Z",
   "last_result": "ok",
-  "last_added": [
-    "MSF-02"
-  ],
+  "last_added": [],
   "last_updated": [],
   "sources": {
     "PZPS": {
