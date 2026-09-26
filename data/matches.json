@@ -359,5 +359,17 @@
     "competition": "CEV Mistrzostwa Europy 2026",
     "sequence": 0,
     "modified_utc": "2026-09-24T07:35:02Z"
+  },
+  {
+    "id": "85090",
+    "code": "MFF-02",
+    "start_utc": "2026-09-26T19:00:00Z",
+    "title": "Francja – Polska | ME 2026",
+    "stage": "mecz medalowy",
+    "location": "Unipol Forum, Assago, Włochy",
+    "url": "https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85090&ID=1572",
+    "competition": "CEV Mistrzostwa Europy 2026",
+    "sequence": 0,
+    "modified_utc": "2026-09-26T07:33:30Z"
   }
 ]

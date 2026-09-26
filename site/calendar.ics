@@ -428,4 +428,19 @@ DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa
 URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85088&ID=157
  2
 END:VEVENT
+BEGIN:VEVENT
+UID:cev-eurovolley-2026-men-85090@polska-siatkowka
+SEQUENCE:0
+DTSTAMP:20260926T073330Z
+LAST-MODIFIED:20260926T073330Z
+DTSTART:20260926T190000Z
+DTEND:20260926T220000Z
+SUMMARY:Francja – Polska | ME 2026
+LOCATION:Unipol Forum\, Assago\, Włochy
+DESCRIPTION:Reprezentacja Polski seniorów (mężczyźni). CEV Mistrzostwa 
+ Europy 2026\, mecz medalowy. Godzina w Polsce: 26.09.2026 21:00. Czas trwa
+ nia wpisu: szacunkowe 3 godziny.
+URL:https://www-old.cev.eu/Competition-Area/MatchPage.aspx?mID=85090&ID=157
+ 2
+END:VEVENT
 END:VCALENDAR
